@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="app_regiester">注册</string>
+    <string name="font_blue">蓝色</string>
+    <string name="font_green">绿色</string>
+    <string name="font_red">红色</string>
+    <string name="title_activity_publication">PublicationActivity</string>
+</resources>
